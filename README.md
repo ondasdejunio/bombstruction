@@ -1,4 +1,4 @@
-# Bombstruction
+# Bombstruction :bomb:
 Videogame created with Unity 3D with bomb throwing as main topic.
 
 ## Features
