@@ -1,5 +1,5 @@
 # Bombstruction :bomb:
-Videogame created with Unity 3D with bomb throwing as main topic.
+Videogame created with Unity 3D and programmed using C# with bomb throwing as the main topic.
 
 ## Features
 - Choose between two characters.
